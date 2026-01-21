@@ -178,6 +178,7 @@ def play_recording():
 
 root = tk.Tk()
 root.title("Mouse Recorder & Player")
+root.iconbitmap("topico.ico")
 root.configure(bg="#0f0f0f")
 
 FINAL_W, FINAL_H = 475, 520
